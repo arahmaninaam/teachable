@@ -1,4 +1,5 @@
 //ARahman
+//dev ready
 import java.util.Scanner;
 
 public class BMI_Calculator {
